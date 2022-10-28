@@ -1,0 +1,32 @@
+.container{
+    width: 75rem;
+    margin: 0 auto;
+}
+
+.wrap-x{
+    overflow-x: wrap;
+}
+
+.flex{
+    display: flex;
+}
+
+.j-content-between{
+    justify-content: space-between;
+}
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+.a-itens-center{
+    align-items: center;
+}
+
+.column{
+    flex-direction: column;
+}
+
+.row{
+    flex-direction: row;
+}

@@ -1,0 +1,25 @@
+
+
+.card{
+    width: 34.25rem;
+    height: 22.5rem;
+    border: none;
+}
+
+.card-image{
+    width: 34.25rem;
+    height: 10.25rem;
+    margin-bottom: 1.5rem;
+}
+
+.card-div{
+    gap: 1rem;
+    display: flex;
+}
+
+.card-p{
+    height: 3rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    
+}

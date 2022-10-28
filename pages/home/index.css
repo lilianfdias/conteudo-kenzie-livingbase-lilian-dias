@@ -1,1 +1,50 @@
 /* Desenvolva seu estilo aqui */
+
+.logo{
+    width: 128px;
+    height: 42px;
+}
+
+/* =====================HEADER================== */
+
+.header{
+    margin-top: 4.688rem;
+    margin-bottom: 6.813rem;
+}
+
+.m-botton-logo{
+    margin-bottom: 4.313rem;
+}
+
+.text-width{
+    width: 26.875rem;
+}
+
+.gap-text{
+    gap:1.5rem;
+}
+
+/* ======================MAIN=======================  */
+
+.gap-buttons{
+    gap: 1.25rem;
+}
+
+.nowrap{
+    flex-wrap: nowrap;
+}
+
+.clip{
+    overflow-x: clip;
+}
+
+.m-botton-filter{
+    margin-bottom: 4.563rem;
+}
+
+.m-bot-ul{
+    margin-bottom: 18rem;
+}
+
+/* ===========================FOOTER====================== */
+

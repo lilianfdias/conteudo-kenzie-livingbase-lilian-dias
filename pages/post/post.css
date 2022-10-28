@@ -1,0 +1,44 @@
+/* Desenvolva seu estilo aqui */
+.logo{
+    width: 128px;
+    height: 42px;
+}
+
+/* ==================HEADER=========================== */
+.header-container{
+    padding: 1.875rem;
+}
+/* ======================MAIN=========================== */
+
+.nowrap{
+    flex-wrap: nowrap;
+}
+
+.clip{
+    overflow-x: clip;
+}
+
+.m-bottom-title{
+    margin-bottom: 2rem;
+}
+
+.m-bottom-subtitle{
+    margin-bottom: 8.313rem;
+}
+
+.m-bottom-img{
+    margin-bottom: 3.25rem;
+}
+
+.m-bottom-p{
+    margin-bottom: 4.5rem;
+}
+
+.m-bottom-filter{
+    margin-bottom: 18rem;
+}
+
+.post-image{
+    height: 25.125rem;
+    width: 100%;
+}

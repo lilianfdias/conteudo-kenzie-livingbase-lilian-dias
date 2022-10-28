@@ -1,0 +1,20 @@
+.footerbk{
+    height: 14.063rem;
+    width: 100%;
+    background-color: var(--color-grey-100);
+    margin-top: 5.5rem;
+    position: fixed;
+    bottom: 0;
+}
+
+.footer-text{
+    width: 34.375rem;
+}
+
+.margin-top-footer{
+    margin-top: 5.5rem;
+}
+
+.footer-text{
+    width: 34.375rem;
+}
